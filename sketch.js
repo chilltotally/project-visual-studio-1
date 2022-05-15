@@ -1,0 +1,10 @@
+function draw()
+{
+background("blue");
+
+
+}
+
+
+
+
